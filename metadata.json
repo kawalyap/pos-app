@@ -1,0 +1,6 @@
+{
+  "name": "KiPay — Smart Urban Payments & Transit Hub",
+  "description": "Multi-screen transit and urban payments ecosystem for Uganda featuring MyParking, mobile money integrations, fast merchant pay, and digital gate pass clearance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
